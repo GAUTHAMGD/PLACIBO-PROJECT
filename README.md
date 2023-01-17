@@ -1,60 +1,60 @@
 # PLACIBO-PROJECT
 
-Module - 1   
+**Module - 1**   
 
 Page 1 - Login page (index.html)
 
-Login/Sign up
-Facebook or
-Gmail/Google or
-Github or
-Phone no.
-Home
-Setings
-Done by
-Feedback 
+Login/Sign up,
+Facebook or,
+Gmail/Google or,
+Github or,
+Phone no.,
+Home,
+Setings,
+Done by,
+Feedback, 
 
-Module -2
+**Module -2**
 
 Page 2 - profile page
 
-Email Id 
-Points
-Badges 
-LOG - Past activities 
-Accuracy 
-Longest streak in quiz(correct answer)
-Longest streak in login  
+Email Id ,
+Points,
+Badges ,
+LOG - Past activities ,
+Accuracy .
+Longest streak in quiz(correct answer),
+Longest streak in login,
 
-Module - 3
+**Module - 3**
 
 Page 3 - Dashboard page
 
-Past activities 
-Pending quizzes 
-Search bar
-Topic page or icons 
-Domain page introduction  
-Quiz level(Hard,Medium,Easy)
-Total No. of persons attended the Quiz
-No. of Question in the Quiz  
-Profile
-Quiz Host / Player
-Game code
-Leaderboard for Local/Global  
+Past activities ,
+Pending quizzes ,
+Search bar,
+Topic page or icons ,
+Domain page introduction,
+Quiz level(Hard,Medium,Easy),
+Total No. of persons attended the Quiz,
+No. of Question in the Quiz, 
+Profile,
+Quiz Host / Player,
+Game code,
+Leaderboard for Local/Global,
 
-Module - 4
+**Module - 4**
 
 Page 4 - Domain Selection  page
-Home
-Setings
-Domain/Quiz topic Selection 
-Domain page introduction  
-Quiz level(Hard,Medium,Easy)
-Total No. of persons attended the Quiz
-No. of Question in the Quiz
+Home,
+Setings,
+Domain/Quiz topic Selection ,
+Domain page introduction  ,
+Quiz level(Hard,Medium,Easy),
+Total No. of persons attended the Quiz,
+No. of Question in the Quiz,
 
-Module - 5
+**Module - 5**
 
 Page 5 - Quiz  page
 
